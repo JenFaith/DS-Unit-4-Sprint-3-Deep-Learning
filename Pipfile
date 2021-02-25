@@ -10,11 +10,11 @@ tensorflow = "*"
 keras = "*"
 ipykernel = "*"
 scikit-learn = "*"
-scikit-image = "*"
 seaborn = "*"
 wandb = "*"
 keras-tuner = "*"
 jupyter = "*"
+scikit-image = "*"
 
 [dev-packages]
 
