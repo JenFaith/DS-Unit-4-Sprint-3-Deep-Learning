@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 numpy = "*"
 pandas = "*"
+jupyter = "*"
 tensorflow = "*"
 keras = "*"
 ipykernel = "*"
@@ -13,8 +14,8 @@ scikit-learn = "*"
 seaborn = "*"
 wandb = "*"
 keras-tuner = "*"
-jupyter = "*"
 scikit-image = "*"
+opencv-python = "*"
 
 [dev-packages]
 
